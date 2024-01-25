@@ -6,7 +6,7 @@ Welcome to my GitHub repository! 🚀 I'm Nishchal Vyas, and this collection com
 
 ## Table of Contents
 
-- [internship-projects](https://github.com/Nishchal128/My-Projects/tree/main/AllProjects/Internship%20Projects)
+- [Internship-projects](https://github.com/Nishchal128/My-Projects/tree/main/AllProjects/Internship%20Projects)
 - [MotionCut Internship Projects](https://github.com/Nishchal128/My-Projects/tree/main/AllProjects/Internship%20Projects)
 - [Bharat Intern Projects](https://github.com/Nishchal128/My-Projects/tree/main/AllProjects/Internship%20Projects/BharatInternTasks)
 - [Projects](https://github.com/Nishchal128/My-Projects/tree/main/AllProjects/Projects)
