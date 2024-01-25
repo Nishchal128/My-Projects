@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Ysabeau+SC&display=swap");
+.body{
+  background: greenyellow;
+}
+* {
+  margin: 5px;
+  padding: 0;
+}
+navbar navbar-expand-lg bg-body-tertiary{
+  background-color: aqua;
+}
+
+.navbar{
+ padding: 0;
+ margin: 10px;
+}
+
+nav button{
+  border-radius: 20px;
+  padding: 10px;
+  font-size: small;
+  margin-top: 5px;
+}
+nav button{
+  background-color: rgb(168, 227, 245);
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 18px;
+}
+nav button:hover{
+  background-color: white;
+  color: rgb(168, 227, 245);
+}
+.container-fluid {
+ background-color: rgb(66, 199, 14);
+ height: 45vh;
+ padding: 10px;
+ 
+}
+.container-fluid button{
+  padding: 15px;
+  margin-top: 80px;
+  border-radius: 20px;
+  background-color: white;
+  color: rgb(9, 141, 202);
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 18px;
+}
+.container-fluid button:hover{
+  background-color: rgb(9, 141, 202);
+  color: white;
+}
+#form-check input{
+  padding: 11px;
+}
+.bottom {
+  margin-top: 40vh;
+  position: sticky;
+  height: 44vh;
+  background-color: rgba(255, 254, 252, 0.904);
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.blogs font{
+    font-size: 100px;
+    font-family: "Ysabeau SC", sans-serif;
+}
+.blogs p{
+    font-family: "Edu SA Beginner", cursive;
+}
+.container{
+    margin: 0;
+    padding: 40px;
+}
+.container font{
+    font-size: 20px;
+
+}
+.container a{
+    font-size: 40px;
+    font-style: italic;
+}
+

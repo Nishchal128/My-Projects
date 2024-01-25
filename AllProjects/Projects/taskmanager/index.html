@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DAY CRAFTER</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Day Crafter</h1>
+      <p>Daily task tracker</p>
+      <div class="task-input">
+        <input type="text" id="taskInput" placeholder="Add a new task" />
+        <select name="priority" id="priority">
+          <option value="Low">Low</option>
+          <option value="Medium">Medium</option>
+          <option value="High">High</option>
+        </select>
+        <input type="date" id="taskDueDate" />
+        <button id="taskAdd">Add Task</button>
+      </div>
+      <ul id="taskList" class="task-list">
+        <!-- Tasks will be dynamically added here -->
+      </ul>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

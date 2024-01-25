@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Ysabeau+SC&display=swap");
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Edu SA Beginner", cursive;
+    text-align: center;
+    background: linear-gradient(rgb(116, 212, 219), white);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+#container {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="number"] {
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    font-size: 24px;
+    margin-top: 20px;
+}

@@ -1,0 +1,52 @@
+NISHCHAL VYAS
+
+Contact Information:
+
+- Email: [pndr128@gmail.com]
+- Phone: [9171812808]
+
+Objective:
+
+To obtain a challenging position in a reputable organization where I can utilize my coding skills and education to contribute to the growth and success of the company.
+
+
+Education:
+
+- Nishchal Vyas, [Student at Acropolis Institute of Technology and Research] [B.Tech CSE], 2nd year
+- Completed C/C++ Training and certified
+- Completed Cyber Security Training and certified
+- Completed Java Training and certified
+- Currently pursuing Web Development Training(HTML, CSS, JavaScript)
+
+
+Skills:
+
+- Proficient in C, C++, and Java programming languages
+- 2-star coder in Codechef.
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork abilities
+- Quick learner and ability to adapt to new technologies
+
+
+Experience:
+
+- Participated in various coding competitions on Codechef and HackerRank
+- Developed projects using HTML, CSS and JavaScript.
+
+
+Certifications:
+
+- Certified in C/C++ programming
+- Certified in JAVA Training.
+- Certified in Ethical Hacking(Cyber Security)
+
+Personal Interests:
+
+- Learning new programming languages and technologies
+- Solving coding problems and participating in coding competitions
+
+Projects:-
+- Personal Portfolio Website.
+- Calculator using Java(NetBeans).
+
+Currently working on weather forecasting system.

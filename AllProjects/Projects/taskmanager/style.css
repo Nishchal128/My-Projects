@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Ysabeau+SC&display=swap");
+body {
+    font-family: "Edu SA Beginner", cursive;
+    background: linear-gradient(rgb(116, 212, 219), white);
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 138vh;
+    margin: 26vh auto;
+    padding: 42px;
+    font-family: "Edu SA Beginner", cursive;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.container p{
+    font-size: 18px;
+    
+}
+
+h1 {
+    font-family: "Ysabeau SC", sans-serif;
+    color: #333;
+}
+
+.task-input {
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    width: 40%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    outline: none;
+}
+
+button {
+    margin: 16px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(229, 235, 233);
+    color: rgb(0, 102, 255);
+  }
+
+ul.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.delete {
+    background-color: #FF6347;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 10px;
+}

@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&family=Ysabeau+SC&display=swap");
+.body{
+  background: greenyellow;
+}
+* {
+  margin: 5px;
+  padding: 0;
+}
+.navbar{
+ padding: 0;
+ margin: 10px;
+}
+
+nav button{
+  border-radius: 20px;
+  padding: 10px;
+  font-size: small;
+  margin-top: 5px;
+}
+nav button{
+  background-color: rgb(168, 227, 245);
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 18px;
+}
+nav button:hover{
+  background-color: white;
+  color: rgb(168, 227, 245);
+}
+.container-fluid {
+ background-color: rgb(233, 228, 224);
+ height: 45vh;
+ padding: 10px;
+ 
+}
+.container-fluid button{
+  padding: 15px;
+  margin-top: 80px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 18px;
+}
+.container-fluid button:hover{
+  background-color: white;
+  color: blue;
+}
+#form-check input{
+  padding: 11px;
+}
+.bottom {
+  margin-top: 40vh;
+  position: sticky;
+  height: 44vh;
+  background-color: rgba(255, 254, 252, 0.904);
+  bottom: 0;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
