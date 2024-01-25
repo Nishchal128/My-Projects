@@ -1,6 +1,8 @@
+# Hello everyone! 👋 My name is Nishchal Vyas. I've compiled all the projects I've worked on to date in this repository, and I'll continue to update it with my latest projects. 🚀 Feel free to explore and provide feedback! 🌟
+
 # All Projects
 
-This repository includes all the projects on which I have worked on till date. This includes projects that I have developed during my internships and the projects that I have developed other than internships. Thera are many more projects I am currently working on, all of them will be added in this repository.
+Welcome to my GitHub repository! 🚀 I'm Nishchal Vyas, and this collection comprises all the projects I've worked on to date. It encompasses not only the projects developed during my internships but also those crafted outside of internship experiences. 🛠️ Excitingly, there are numerous ongoing projects in the pipeline, and each one will find its place in this repository. Stay tuned for more updates! 🌐📁
 
 ## Table of Contents
 
